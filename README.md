@@ -7,6 +7,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Zaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=benaissazaki)
+<img src="https://myreadme.vercel.app/api/embed/benaissazaki?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 # Hi there! 👋
 
 I'm Zaki, a Software Engineer with 3 years of experience.
@@ -26,7 +27,7 @@ I'm Zaki, a Software Engineer with 3 years of experience.
 - WordPress development (Plugins and themes)
 
 ## 📝 Blog
-I sometimes write on [my personal blog](https://benaissazaki.com) (which needs a revamp).
+I sometimes write on [my personal blog](https://benaissazaki.com).
 
 ## 🎓 Education
 - Master's degree in Information Technology, University of Boumerdes
